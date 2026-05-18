@@ -4,7 +4,7 @@ import pandas as pd
 import random
 
 data={
-    'Name':['Ravi' , 'Sia' , 'Ritik' , 'rohit' , 'Love' , 'Kush' , 'Ram', 'Lucky'],
+    'Name':['Ravi' , 'Riya' , 'Ritik' , 'rohit' , 'Love' , 'Kush' , 'Ram', 'Lucky'],
     'Age': np.random.randint(18,22 , size=8),
     'Dsa': np.random.randint(8,31, size=8),
     'Maths': np.random.randint(8,31, size=8),
